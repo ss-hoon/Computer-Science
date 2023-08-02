@@ -38,4 +38,21 @@
 
 <br>
 
-**⚙️ HTTP의 동작 과정**
+**⚙️ HTTPS의 동작 과정**
+
+1. 클라이언트가 서버로 최초 연결 시도
+   
+2. 서버는 공개키(인증서)를 브라우저에게 전달
+   
+3. 브라우저는 인증서의 유효성을 검사하고 세션키 발급
+   
+4. 브라우저는 세션키를 보관하며 추가로 서버의 공개로 세션키를 암호화하여 서버로 전송
+   
+5. 서버는 개인키로 암호화된 세션키를 복호화하여 세션키 획득
+   
+6. 클라이언트와 서버는 동일한 세션키를 공유하므로 데이터를 전달할 때 세션키로 암/복호화를 진행
+
+<br><br>
+
+![HTTPS의 동작 과정](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcCodLU%2FbtrqRZnoOFq%2Fe6kFHjADoVby70466Jkq51%2Fimg.png)
+<p align="center">(출처: https://mangkyu.tistory.com/98)</p>
