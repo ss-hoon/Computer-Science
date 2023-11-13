@@ -10,7 +10,9 @@
 
 * 넓은 의미의 운영체제 : 커널을 포함한 주변 시스템 유틸리티 포함
 
-![운영체제](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Operating_system_placement_kor.svg/1200px-Operating_system_placement_kor.svg.png)
+<div style="margin: 30px 0;text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Operating_system_placement_kor.svg/1200px-Operating_system_placement_kor.svg.png" style="width:40%">
+</div>
 
 <br>
 
