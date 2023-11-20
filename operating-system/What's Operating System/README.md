@@ -44,57 +44,57 @@
 
   **📌 동시 작업 가능 여부**
 
-  * 단일 작업 (Single Tasking)
+  > * 단일 작업 (Single Tasking)
+  >
+  >    ✔️ 한 번에 하나의 작업만 처리
+  >
+  >    🔹 MS-DOS
 
-    ✔️ 한 번에 하나의 작업만 처리
-
-    🔹 MS-DOS
-
-  * 다중 작업 (Multi Tasking)
-
-    ✔️ 동시에 두 개 이상의 작업 처리
-
-    🔹 Windows
-
-    🔹 UNIX
+  > * 다중 작업 (Multi Tasking)
+  >
+  >    ✔️ 동시에 두 개 이상의 작업 처리
+  >
+  >    🔹 Windows
+  >
+  >    🔹 UNIX
 
   <br>
 
   **📌 사용자의 수**
 
-  * 단일 사용자 (Single User)
+  > * 단일 사용자 (Single User)
+  >
+  >    🔹 MS-DOS
+  >
+  >    🔹 Windows
 
-    🔹 MS-DOS
-
-    🔹 Windows
-
-  * 다중 사용자 (Multi User)
-
-    🔹 UNIX
+  > * 다중 사용자 (Multi User)
+  >
+  >    🔹 UNIX
 
   <br>
 
   **📌 처리 방식**
 
-  * 일괄 처리 (Batch Processing)
+  > * 일괄 처리 (Batch Processing)
+  >
+  >    ✔️ 작업을 모아서 한 번에 처리
+  >
+  >    🔹 초기 Punch Card 시스템
 
-    ✔️ 작업을 모아서 한 번에 처리
+  > * 시분할 처리 (Time Sharing Processing)
+  >
+  >    ✔️ 일정 시간 단위로 분할하여 처리
+  >
+  >    🔹 UNIX
 
-    🔹 초기 Punch Card 시스템
-
-  * 시분할 처리 (Time Sharing Processing)
-
-    ✔️ 일정 시간 단위로 분할하여 처리
-
-    🔹 UNIX
-
-  * 실시간 처리 (Real Time Processing)
-
-    ✔️ 실시간으로 요청한 작업을 바로 처리
-
-    🔹 원자로/공장 제어
-
-    🔹 미사일 제어
+  > * 실시간 처리 (Real Time Processing)
+  >
+  >    ✔️ 실시간으로 요청한 작업을 바로 처리
+  >
+  >    🔹 원자로/공장 제어
+  >
+  >    🔹 미사일 제어
 
 
 ## 출처
