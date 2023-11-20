@@ -50,6 +50,8 @@
   >
   >    🔹 MS-DOS
 
+  <br>
+
   > * 다중 작업 (Multi Tasking)
   >
   >    ✔️ 동시에 두 개 이상의 작업 처리
@@ -68,6 +70,8 @@
   >
   >    🔹 Windows
 
+  <br>
+
   > * 다중 사용자 (Multi User)
   >
   >    🔹 UNIX
@@ -82,11 +86,15 @@
   >
   >    🔹 초기 Punch Card 시스템
 
+  <br>
+
   > * 시분할 처리 (Time Sharing Processing)
   >
   >    ✔️ 일정 시간 단위로 분할하여 처리
   >
   >    🔹 UNIX
+
+  <br>
 
   > * 실시간 처리 (Real Time Processing)
   >
